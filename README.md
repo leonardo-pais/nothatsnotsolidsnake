@@ -62,8 +62,8 @@ This project uses [uv](https://github.com/astral-sh/uv) for package management.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/no-thats-not-solid-snake.git
-cd no-thats-not-solid-snake
+git clone https://github.com/leonardo-pais/nothatsnotsolidsnake.git
+cd nothatsnotsolidsnake
 
 # Install dependencies
 uv install
